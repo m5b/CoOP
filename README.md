@@ -2,4 +2,4 @@
 Build files for the Cooperative Outrigger Paddling System
 
 
-![CoOP Exploded View](link-to-image)
+![CoOP Exploded View](coop_mk3_exploded.png)
